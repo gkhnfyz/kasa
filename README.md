@@ -33,6 +33,7 @@
 
 Kasa için canlı demo, kurulum ve fiyat bilgisi almak isterseniz:
 
+- 📄 **Ürün sayfası:** [tumabilisim.com/urun/kasa](https://tumabilisim.com/urun/kasa)
 - 🌐 **Teklif formu:** [tumabilisim.com/iletisim](https://tumabilisim.com/iletisim?urun=Kasa)
 - 💬 **WhatsApp:** [+90 533 432 15 12](https://wa.me/905334321512?text=Merhaba%2C%20Kasa%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum.)
 - ✉️ **E-posta:** [info@tumabilisim.com](mailto:info@tumabilisim.com?subject=Kasa%20hakk%C4%B1nda)
@@ -48,7 +49,7 @@ Kasa için canlı demo, kurulum ve fiyat bilgisi almak isterseniz:
 
 **Kasa** — Offline password manager for Windows — a modern KeePass alternative. Argon2id + XChaCha20-Poly1305, browser autofill extension, TOTP, KeePass/Bitwarden import. Free, no subscription, no telemetry.
 
-Live product: https://tumabilisim.com/kasa/ · Contact: [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp: [+90 533 432 15 12](https://wa.me/905334321512)
+Live product: https://tumabilisim.com/kasa/ · Product page: https://tumabilisim.com/urun/kasa · Contact: [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp: [+90 533 432 15 12](https://wa.me/905334321512)
 
 </details>
 
